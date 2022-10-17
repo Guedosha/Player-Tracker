@@ -1,0 +1,10 @@
+com\guedosha\playertracker\events\PlayerSleepEvent.class
+com\guedosha\playertracker\functionality\CustomConfig.class
+com\guedosha\playertracker\events\PlayerQuitEvent.class
+com\guedosha\playertracker\Playertracker.class
+com\guedosha\playertracker\events\PlayerJoinEvent.class
+com\guedosha\playertracker\events\PlayerRespawnEvent.class
+com\guedosha\playertracker\events\PlayerPortalEvent.class
+com\guedosha\playertracker\events\PlayerMoveEvent.class
+com\guedosha\playertracker\commands\CommandMessage.class
+com\guedosha\playertracker\events\PlayerDiedEvent.class

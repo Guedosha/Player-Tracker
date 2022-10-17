@@ -1,0 +1,6 @@
+LogPlayerJoin: true
+LogPlayerQuit: true
+LogPlayerRespawn: true
+LogPlayerTeleport: true
+LogPlayerSleep: true
+LogWorld: true

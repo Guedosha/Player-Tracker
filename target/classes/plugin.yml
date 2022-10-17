@@ -1,0 +1,9 @@
+name: PlayerTracker
+version: '2.0'
+main: com.guedosha.playertracker.Playertracker
+api-version: 1.19
+authors: [ Guedosha ]
+description: Tracks players, making it easier to know what is happening when staff is offline
+commands:
+  message:
+    description: uWu
